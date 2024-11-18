@@ -82,7 +82,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/React-Proj-Mid.git
+git clone and
 Navigate to the project directory:
 
 bash
